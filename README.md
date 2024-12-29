@@ -30,9 +30,10 @@ The program currently supports the following ports:
 
 The following graph represents the connected ports and the cost of transportation between them. Each node corresponds to a port, and the edges indicate the routes between ports, with weights representing the cost of traversal. This graph is a key input for the **Floyd-Warshall algorithm**, which calculates the shortest paths between all pairs of ports.
 
-![alt text](graph1.png)
-
-![alt text](graph2.png)
+<p align="center">
+   <img src="graph1.png" alt="Graph 1" style="height: 400px; width: auto;">
+   <img src="graph2.png" alt="Graph 2" style="height: 400px; width: auto;">
+</p>
 
 ## Prerequisites
 
